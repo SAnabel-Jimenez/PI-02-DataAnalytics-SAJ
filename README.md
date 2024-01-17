@@ -17,7 +17,7 @@ El objetivo principal 🎯 es elaborar un análisis exhaustivo con la data de [s
 * Creación de Dashboard con insights recopilados del dataset.
 * Definición de 2 KPIs relevantes al objetivo general.
 * Recomendaciones que aborden el problema.
-* Consolidar el desarrollo en un repositorio Github,¿.
+* Consolidar el desarrollo en un repositorio Github.
 
 --- 
 ### Recursos:
